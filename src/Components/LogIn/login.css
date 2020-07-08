@@ -1,0 +1,27 @@
+.form-image{
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 600px;
+    height: 300px;
+    padding: 5px;
+    margin: 20px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 100px;
+    padding-top: 30px;
+}
+
+.form-image:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+h1{
+    padding-top: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#button3{
+    margin-left: 250px ;
+}

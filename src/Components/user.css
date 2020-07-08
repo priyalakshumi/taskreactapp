@@ -1,0 +1,11 @@
+.nav{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 20px;
+    align-content: center;
+    padding-right: 30px;
+}   
+
+a{
+    margin-right: 10px;
+    margin-left: 10px;
+}

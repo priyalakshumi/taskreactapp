@@ -1,0 +1,28 @@
+.card-image1 {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 700px;
+    height: 200px;
+    padding: 5px;
+    margin: 20px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background: rgb(207, 214, 216);
+  }
+
+.card-image1:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+h5{
+    padding-top: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+#button2{
+    margin-left: 300px ;
+}
